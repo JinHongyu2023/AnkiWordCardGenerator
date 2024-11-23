@@ -1,0 +1,4 @@
+gtts
+googletrans==4.0.0-rc1
+nltk
+eng_to_ipa
